@@ -42,7 +42,7 @@ Siga os passos abaixo para configurar e rodar o projeto localmente.
     npm install
     ```
 
-3. Configure o banco de dados:
+3. Configure o banco de dados MySQL.
 
 
 4. Execute as migrações do banco de dados:
