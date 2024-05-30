@@ -44,15 +44,6 @@ Siga os passos abaixo para configurar e rodar o projeto localmente.
 
 3. Configure o banco de dados:
 
-    Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis (substitua com suas próprias credenciais de banco de dados):
-
-    ```env
-    DB_NAME=nome_do_banco
-    DB_USER=usuario_do_banco
-    DB_PASSWORD=senha_do_banco
-    DB_HOST=localhost
-    DB_DIALECT=mysql
-    ```
 
 4. Execute as migrações do banco de dados:
 
@@ -69,8 +60,7 @@ Siga os passos abaixo para configurar e rodar o projeto localmente.
 6. Abra o navegador e acesse:
 
     ```
-    http://localhost:3000
+    http://localhost:8080
     ```
 
-## Estrutura do Projeto
 
