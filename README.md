@@ -63,4 +63,8 @@ Siga os passos abaixo para configurar e rodar o projeto localmente.
     http://localhost:8080
     ```
 
+## Contato
+
+Christopher Antony - christophercarreira2306@gmail.com
+
 
