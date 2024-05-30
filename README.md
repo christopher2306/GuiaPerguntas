@@ -57,7 +57,13 @@ Siga os passos abaixo para configurar e rodar o projeto localmente.
     npm start
     ```
 
-6. Abra o navegador e acesse:
+6. Inicie a aplicação:
+
+    ```bash
+    node index.js
+    ```
+
+7. Abra o navegador e acesse:
 
     ```
     http://localhost:8080
